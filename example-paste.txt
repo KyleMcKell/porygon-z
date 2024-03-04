@@ -1,0 +1,61 @@
+thanks (Serperior) @ Leftovers  
+Ability: Contrary  
+Tera Type: Rock  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Glare  
+- Leaf Storm  
+- Tera Blast  
+
+for (Roaring Moon) @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Flying  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Knock Off  
+- Acrobatics  
+- Brick Break  
+
+checking (Landorus-Therian) (M) @ Heavy-Duty Boots  
+Ability: Intimidate  
+Tera Type: Ground  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Stealth Rock  
+- Taunt  
+
+this (Rillaboom) @ Terrain Extender  
+Ability: Grassy Surge  
+Tera Type: Grass  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- U-turn  
+- Grassy Glide  
+- Taunt  
+- Knock Off  
+
+out (Heatran) @ Air Balloon  
+Ability: Flame Body  
+Tera Type: Ghost  
+EVs: 248 HP / 88 Def / 172 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Will-O-Wisp  
+
+! (Hawlucha) @ Grassy Seed  
+Ability: Unburden  
+Tera Type: Flying  
+EVs: 128 HP / 252 Atk / 4 Def / 124 Spe  
+Adamant Nature  
+- Swords Dance  
+- Encore  
+- Acrobatics  
+- Close Combat  
